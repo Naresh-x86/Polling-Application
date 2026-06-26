@@ -4,7 +4,7 @@
 
 > [!CAUTION]
 > ## Deprecation Warning
-> This version of my election software is outdated, and may not function as intended. Check out the latest version at [Naresh-x86/Stable-Polling-V2](https://github.com/Naresh-x86/Stable-Polling-V2), featuring updated management features and full-fledged interfaces for all aspects of the software!
+> This version of my election software is outdated, and may not function as intended.<br><br>Check out the latest version at [Naresh-x86/Stable-Polling-V2](https://github.com/Naresh-x86/Stable-Polling-V2), featuring new, improvised management features and full-fledged interfaces for all aspects of the software!
 ---
 
 ### Database Integration & Schema
