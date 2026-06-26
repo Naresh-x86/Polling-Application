@@ -2,6 +2,9 @@
 
 > A database-driven desktop software implemented using Python and `tkinter`. It executes raw SQL queries against a backend MySQL server via the `mysql.connector` library to manage and process election data states. The program uses index-based pointers to traverse predefined posts and dynamically generate the GUI.
 
+> [!CAUTION]
+> ## Deprecation Warning
+> This version of my election software is outdated, and may not function as intended. Check out the latest version at [Naresh-x86/Stable-Polling-V2](https://github.com/Naresh-x86/Stable-Polling-V2), featuring updated management features and full-fledged interfaces for all aspects of the software!
 ---
 
 ### Database Integration & Schema
