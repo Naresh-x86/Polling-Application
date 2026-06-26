@@ -38,8 +38,6 @@ erDiagram
     When a vote is cast via the `vote(candidate_id)` function, a parameterized `UPDATE` query increments the integer value in the `votes` column corresponding to the specific primary key `id`. A subsequent `SELECT` query retrieves the associated `name` string to populate the confirmation modal.
     <br/>
 
-<br/>
-
 ### User Interface Implementation
 
 *   **Dynamic Generation**
@@ -56,8 +54,6 @@ erDiagram
     <br/>
     The string manipulation function `replace_characters()` cleans arbitrary underscores and handles formatting before rendering candidate names to the `tkinter` Canvas elements.
     <br/>
-
----
 
 ---
 
